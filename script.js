@@ -54,3 +54,14 @@ const addArrow = (a, b) => {
 };
 
 // Example
+
+if (!numProducts) deleteShoppingCart();
+
+var numProducts = 10;
+
+function deleteShoppingCart() {
+  console.log('All products deleted');
+}
+var x = 1;
+let y = 2;
+const z = 3;
